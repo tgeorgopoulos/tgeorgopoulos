@@ -9,7 +9,7 @@ Mechanical engineering student at **UIC** (class of 2028). I build physical prod
 - 📐 **[beam-calc](https://github.com/tgeorgopoulos/beam-calc):** beam bending calculator, verified against closed-form and numerical results
 - 🔊 **[wien-bridge-alarm](https://github.com/tgeorgopoulos/wien-bridge-alarm):** design and simulation tools for a Wien-bridge + ultrasonic proximity alarm
 
-**Also building (private):** Fairway, a golf companion app (Flutter, Supabase, Cloudflare Workers), and CurbMap Chicago, a street-parking map.
+**Also building (private):** Fairway, a golf companion app (Flutter, Supabase, Cloudflare Workers), and DeskAgent, a voice-controlled browser automation agent.
 
 **Toolkit**
 `SolidWorks` `Fusion 360` `Onshape` `3D printing` `Python` `PyTorch` `Flutter/Dart` `JavaScript`
