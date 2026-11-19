@@ -4,12 +4,15 @@ Mechanical engineering student at **UIC** (class of 2028). I build physical prod
 
 🌐 **Portfolio:** [tgeorgopoulos.github.io](https://tgeorgopoulos.github.io)
 
-**What I'm building**
-- ⛳ **[Fairway](https://github.com/tgeorgopoulos/golfapp):** golf companion app (Flutter, Supabase, Cloudflare Workers). GPS yardages, WHS handicaps, AI green reads. In TestFlight.
-- 🚗 **[CurbMap Chicago](https://github.com/tgeorgopoulos/curbmap-chicago):** parking map that colors every Chicago curb by whether you can park there. Web + iOS.
+**Projects**
+- ⛳ **[puttline-detection](https://github.com/tgeorgopoulos/puttline-detection):** training and evaluation code for the ball + hole detector in my golf app (YOLOv8 and YOLOX)
+- 📐 **[beam-calc](https://github.com/tgeorgopoulos/beam-calc):** beam bending calculator, verified against closed-form and numerical results
+- 🔊 **[wien-bridge-alarm](https://github.com/tgeorgopoulos/wien-bridge-alarm):** design and simulation tools for a Wien-bridge + ultrasonic proximity alarm
+
+**Also building (private):** Fairway, a golf companion app (Flutter, Supabase, Cloudflare Workers), and CurbMap Chicago, a street-parking map.
 
 **Toolkit**
-`SolidWorks` `Fusion 360` `Onshape` `3D printing` `Python` `Flutter/Dart` `JavaScript` `FastAPI` `Supabase`
+`SolidWorks` `Fusion 360` `Onshape` `3D printing` `Python` `PyTorch` `Flutter/Dart` `JavaScript`
 
 **Interested in:** vehicle automation safety, computer vision, product design
 
